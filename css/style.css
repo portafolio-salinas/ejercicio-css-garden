@@ -1,0 +1,11 @@
+body {
+	 font-family:Arial;
+	 font-size: 20px;
+	 background:url("../imagenes/fondo-web-bellotas-verde.png");
+}
+ 
+div .preamble {
+	font-size: 15px;
+	background: #c3b5ce;
+	border-radius: 25%;
+}
